@@ -51,7 +51,6 @@ Miscellaneous:
 - Table → Warehouse Zone Z, Area 2
 - Whiteboard → Warehouse Zone Z, Area 7
 - Cleaning Kit → Storage Room S1, Shelf 2
-
 Response Format Example:
 "Laptop is located at Rack A1, Shelf 1."
 """

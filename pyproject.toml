@@ -1,10 +1,13 @@
 [project]
 name = "object-locator-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "A voice-controlled assistant for locating objects in inventory using AI"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "openai>=2.14.0",
     "python-dotenv>=1.2.1",
+    "speechrecognition>=3.10.0",
+    "pyttsx3>=2.90",
+    "tk>=0.1.0",
 ]
