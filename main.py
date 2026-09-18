@@ -81,6 +81,8 @@ button.pack(side=tk.LEFT, padx=5)
 clear_button = tk.Button(button_frame, text="Clear", command=clear_chat, font=("Arial", 12))
 clear_button.pack(side=tk.LEFT, padx=5)
 
+
+
 status_label = tk.Label(root, text="Ready", font=("Arial", 10))
 status_label.pack(pady=5)
 
