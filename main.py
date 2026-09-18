@@ -6,6 +6,7 @@ from system_prompt import system_prompt
 import pyttsx3
 import tkinter as tk
 
+
 # Voice setup
 listener = sr.Recognizer()
 try:
