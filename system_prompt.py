@@ -40,6 +40,7 @@ Office Supplies:
 - Calculator → Rack D1, Shelf 3
 
 Networking & Power:
+
 - Ethernet Cable → Rack C2, Shelf 3
 - HDMI Cable → Rack C2, Shelf 4
 - Extension Board → Rack E1, Shelf 2
